@@ -7,10 +7,6 @@ body{
 	height: 400px;
 	margin: 40px;
     border: 4px solid black;
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
-    grid-template-rows: auto auto auto auto auto;
-    padding: 0px;
 }
 
 #puzzle:hover{
@@ -53,7 +49,7 @@ img:nth-child(9){
     margin-left: 513px;
 }
 
-.topright{
+img:nth-child(10){
     margin-left: 564px;
 }
 
